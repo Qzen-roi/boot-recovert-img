@@ -1,2 +1,2 @@
-# boot-recovert-img
+# boot-recovery-img
 Boot &amp; recovery img files of different devices
